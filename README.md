@@ -7,3 +7,6 @@ added a new branch and doing the first commit
 Here is the example of using github through rest api
 
 this changes is made by suraj 
+1
+2
+3
